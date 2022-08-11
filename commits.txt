@@ -1,0 +1,85 @@
+commit 3a32fb85a46d37e8315b14497bb5dae59fda8c19
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 22:40:12 2022 +0200
+
+    Agregando dos párrafos
+
+commit 54dc82dd99acf4bfa6464d26d683e5272bc57199
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 22:14:20 2022 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit f984b4ee04c6c1f3d7a6c00f1044c28f2884ce14
+Merge: 63ef122 5c43cbb
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 20:36:06 2022 +0200
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 5c43cbbae6b429a78e0807fdc6c0f411afb0afea
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 20:28:58 2022 +0200
+
+    Agregando index.js al index.html
+
+commit 63ef12220b4841faa6e96477ea62589cb1b90535
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 20:27:05 2022 +0200
+
+    Agregando style.css al index.html
+
+commit c83a9836888c3a3b1ae5c3ddc74d96126847f2c1
+Merge: 6acade4 70fccd4
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 20:17:27 2022 +0200
+
+    Merge branch 'js'
+
+commit 70fccd494607e3698f9b3d67bb32ac78be67b6a8
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 20:12:16 2022 +0200
+
+    Creando index.js
+
+commit 6acade48b0764809292ce094154aa9e55ad098a8
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 20:05:54 2022 +0200
+
+    Creando style.css
+
+commit c1fe619ea6012981570f66e97b785677042db814
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 20:01:47 2022 +0200
+
+    Creando index.html
+
+commit c42f6329cd859c1f4ede9f75aa2b0958afb2d21b
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 19:38:51 2022 +0200
+
+    Ignorando archivos .exe
+
+commit 3cade6204f389c1ec10ec7d28b78327327cfb052
+Author: Miguel Decode <97762748+MiguelDecode@users.noreply.github.com>
+Date:   Wed Aug 10 19:07:53 2022 +0200
+
+    Creando licencia del repositorio
+
+commit 58df32599d6b3550b716e25b7df268a2b581b828
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 19:02:01 2022 +0200
+
+    Agregando más contenido al README.md
+
+commit c0bb333afe3db1f84ce183b003b58318b540b6b2
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 18:40:53 2022 +0200
+
+    Agregando contenido inicial al README.md
+
+commit b24bb43ed15448c9437085f2df4c9800ccb779dd
+Author: Miguel Decode <migueldecode@gmail.com>
+Date:   Wed Aug 10 18:35:55 2022 +0200
+
+    First commit
